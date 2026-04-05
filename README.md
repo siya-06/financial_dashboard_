@@ -33,7 +33,8 @@ Fonts: **Playfair Display** (headings) · **DM Sans** (body) · **DM Mono** (num
 ## Features
 
 ### Dashboard
-<img width="1894" height="911" alt="image" src="https://github.com/user-attachments/assets/8911b97b-1df6-4c59-9c6f-6697a059485c" />
+<img width="1919" height="878" alt="image" src="https://github.com/user-attachments/assets/1daaac81-2690-47ed-beac-8451d9e9d605" />
+
 - Summary cards: Total Balance, Monthly Income, Monthly Expenses
 - % change vs last month with green/red color cues
 - 6-month balance trend — Area chart
@@ -41,7 +42,7 @@ Fonts: **Playfair Display** (headings) · **DM Sans** (body) · **DM Mono** (num
 - Recent transactions widget
 
 ### Transactions
-<img width="1919" height="890" alt="image" src="https://github.com/user-attachments/assets/9d5e786a-b98f-4d92-a080-3bc1698d4ee9" />
+<img width="1919" height="917" alt="image" src="https://github.com/user-attachments/assets/92623ba0-5248-4c2b-9e59-ab46a34fe4b2" />
 
 - Search by description or category
 - Filter by type and category
@@ -50,7 +51,7 @@ Fonts: **Playfair Display** (headings) · **DM Sans** (body) · **DM Mono** (num
 - Viewer: read-only
 
 ### Insights
-<img width="1899" height="910" alt="image" src="https://github.com/user-attachments/assets/fcc785e6-c5c8-4408-b007-e8bb7df9cf0f" />
+<img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/f7f8a2ea-eb1a-4961-bfef-98cf832ef74d" />
 <img width="1421" height="139" alt="image" src="https://github.com/user-attachments/assets/52dd9093-9f5d-4768-af6b-226d4545a155" />
 
 - Highest spending category
