@@ -15,7 +15,7 @@ Open http://localhost:5173
 
 | Tool | Purpose |
 |---|---|
-| React 18 + Vite | Framework & build |
+| React 18 + Vite | Framework & build | 
 | Tailwind CSS v3 | Styling |
 | Recharts | Charts (Area, Pie, Bar) |
 | Lucide React | Icons |
